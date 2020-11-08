@@ -7,6 +7,7 @@
 	<meta name="viewport" id="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui" />
 	<style>html,body{background:#FFFFFF;}</style>
 	<link href="mobile/player.css" rel="stylesheet" type="text/css" />
+	<!--[if lt IE 9]><script>location.href = location.href.replace("_html5", "_unsupported");</script><![endif]-->
 
 	<!-- Created using Articulate Storyline 2.4 - http://www.articulate.com  --> 
 	<!-- version: 2.4.1501.717 -->
